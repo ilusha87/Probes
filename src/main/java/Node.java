@@ -18,7 +18,7 @@ class MyNode extends Node<Integer> {
 
     public void setData(Integer data) {
         System.out.println("MyNode.setData");
-        super.setData(data);
+        super.setData(data);//dummy
     }
 
     public static void main(String args[]) {
