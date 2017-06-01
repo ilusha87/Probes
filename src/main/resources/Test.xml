@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<t_roles>
+    <role t_visibility="global" parent="Base" name="Test role" action="UPDATE">
+        <t_privileges>
+        </t_privileges>
+    </role>
+</t_roles>
